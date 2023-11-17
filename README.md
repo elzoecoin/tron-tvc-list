@@ -6,13 +6,13 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
-      "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "address": "TP4wPMATGuaaVAKJqm5GFh1Bj4UNG66kct",
+      "symbol": "EZC",
+      "name": "Elzoecoin",
+      "decimals": 9,
+      "logoURI": "https://app.elzoecoin.com/assets/images/ELZOECOIN_logo_color_400.png",
+      "homepage": "https://www.elzoecoin.com/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/EZC/",
       "existingMarkets": [
           {
               "source": "Binance",
